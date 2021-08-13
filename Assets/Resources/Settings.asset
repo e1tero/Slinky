@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a6228d0fd8ae4b74bc19990edb6a524, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  FacebookId: 542754970250133
+  AppId: 542754970250133
+  ApiKey: 3cc6ea9b-c49d-4ed4-86a7-3c3b28c1e30d
+  Url: https://espresso-pub.com/api/v1/3cc6ea9b-c49d-4ed4-86a7-3c3b28c1e30d/
+  ConfigUrl: https://espresso-pub.com/api/v1/3cc6ea9b-c49d-4ed4-86a7-3c3b28c1e30d/stats-config/542754970250133
+  Versions:
+    Unity:
+      min: 2019.4.1
+      max: 2020.4
+      recommended: 2019.14.1f1
+    FbSdk:
+      min: 7.1.1
+      max: 9.99.99
+      recommended: 8.1.1
+    RobustaSdk:
+      min: 0.1.0
+      max: 9.99.99
+      recommended: 0.3.4
