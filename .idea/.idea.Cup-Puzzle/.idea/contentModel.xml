@@ -1092,15 +1092,31 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
-          <e p="BallLauncher.cs" t="Include" />
           <e p="CameraFollow.cs" t="Include" />
           <e p="Extensions" t="Include">
+            <e p="IntExtensions.cs" t="Include" />
+            <e p="TransformExtensions.cs" t="Include" />
             <e p="Vector3Extensions.cs" t="Include" />
           </e>
           <e p="FollowSystem.cs" t="Include" />
           <e p="Ground.cs" t="Include" />
+          <e p="Obstacle.cs" t="Include" />
+          <e p="Player" t="Include">
+            <e p="HeadRingMovement.cs" t="Include" />
+            <e p="PlayerInitializer.cs" t="Include" />
+            <e p="PlayerView.cs" t="Include" />
+            <e p="RingLeadMovement.cs" t="Include" />
+          </e>
+          <e p="PlayerMovement.cs" t="Include" />
           <e p="RotatePlatforms.cs" t="Include" />
-          <e p="SlinkyMovement.cs" t="Include" />
+          <e p="ScriptableObjects" t="Include">
+            <e p="Player" t="Include">
+              <e p="PlayerData.cs" t="Include" />
+            </e>
+          </e>
+          <e p="UIHelper.cs" t="Include" />
+          <e p="WaitForActiveGameObject.cs" t="Include" />
+          <e p="WaitForButtonClick.cs" t="Include" />
         </e>
         <e p="Source" t="Include">
           <e p="Skybox" t="Include">

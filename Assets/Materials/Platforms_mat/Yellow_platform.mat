@@ -82,5 +82,5 @@ Material:
     - _Color: {r: 0.9716981, g: 0.63032305, b: 0.27959237, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _HColor: {r: 0.7264151, g: 0.7264151, b: 0.7264151, a: 1}
-    - _SColor: {r: 0.2830189, g: 0.1018868, b: 0, a: 1}
+    - _SColor: {r: 0.6981132, g: 0.47720867, b: 0.3523496, a: 1}
   m_BuildTextureStacks: []

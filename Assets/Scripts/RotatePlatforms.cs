@@ -59,6 +59,4 @@ public class RotatePlatforms : MonoBehaviour
             NormalizedOffsetX = offsetX / maxSlideDistance;
         }
     }
-
-
 }

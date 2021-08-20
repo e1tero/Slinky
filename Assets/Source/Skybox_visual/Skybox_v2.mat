@@ -83,9 +83,9 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _SkyColor1: {r: 0.7411765, g: 0.59607846, b: 0.8980392, a: 1}
-    - _SkyColor2: {r: 0.7411765, g: 0.59607846, b: 0.8980392, a: 1}
-    - _SkyColor3: {r: 0.7411765, g: 0.59607846, b: 0.8980392, a: 1}
-    - _SunColor: {r: 0.6906469, g: 0.6650944, b: 1, a: 1}
+    - _SkyColor1: {r: 0.7323015, g: 0.48584908, b: 1, a: 1}
+    - _SkyColor2: {r: 0.69550985, g: 0.46293166, b: 0.9528302, a: 1}
+    - _SkyColor3: {r: 1, g: 0.6462264, b: 0.9194116, a: 1}
+    - _SunColor: {r: 1, g: 1, b: 1, a: 1}
     - _SunVector: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []

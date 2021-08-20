@@ -68,7 +68,7 @@ Shader "Hidden/Toony Colors Pro 2/Variants/Mobile Specular"
 		
 		//================================================================
 		// SURFACE FUNCTION
-		
+
 		void surf (Input IN, inout SurfaceOutput o)
 		{
 			half4 main = tex2D(_MainTex, IN.uv_MainTex);

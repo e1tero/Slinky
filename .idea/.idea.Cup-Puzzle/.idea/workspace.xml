@@ -20,14 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80903991-8a52-4eea-a0ba-2b7e17cdf672" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Cup-Puzzle/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Cup-Puzzle/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Cup-Puzzle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Cup-Puzzle/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BallLauncher.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BallLauncher.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-AssetImportWorker0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerInitializer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerInitializer.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +32,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BallLauncher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Obstacle.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -48,10 +42,16 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Ground.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Extensions/Vector3Extansions.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RotatePlatforms.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FollowSystem.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SlinkyMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BallLauncher.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RingLeadMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RotatePlatforms.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/Player/PlayerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Obstacle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/RingLeadMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UIHelper.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerInitializer.cs" />
       </list>
     </option>
   </component>
@@ -88,7 +88,13 @@
       <workItem from="1628668751364" duration="6118000" />
       <workItem from="1628731668027" duration="9567000" />
       <workItem from="1628752063889" duration="9270000" />
-      <workItem from="1628817492689" duration="19236000" />
+      <workItem from="1628817492689" duration="19885000" />
+      <workItem from="1628846405448" duration="3954000" />
+      <workItem from="1628871558552" duration="2544000" />
+      <workItem from="1628915193853" duration="1235000" />
+      <workItem from="1628995801676" duration="1694000" />
+      <workItem from="1629000413352" duration="11126000" />
+      <workItem from="1629085268120" duration="9420000" />
     </task>
     <servers />
   </component>
